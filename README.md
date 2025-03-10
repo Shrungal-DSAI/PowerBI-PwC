@@ -1,5 +1,7 @@
 # 📊 PwC Power BI Simulation
 
+![Power BI Logo](images/New_Power_BI_Logo.svg.png)
+
 🚀 **All in on Digital Transformation: Creating a Stronger, Nimbler, More Resilient Future!**
 
 ## 📌 Project Focus
@@ -49,18 +51,21 @@ PwC-Power-BI-Simulation/
 ## 📊 Power BI Dashboards & Visualizations
 
 📍 **1️⃣ Call Center Solution**  
-![Call Center Dashboard](images/Call%20Center%20Solution.png)  
+![Call Center Dashboard](images/Call%20center.png)  
 
 📍 **2️⃣ Customer Retention Analysis**  
-![Customer Retention](images/Customer%20Retention.png)  
+![Churn Dashboard](images/Churn%20Dashboard.png)  
 
-📍 **3️⃣ Diversity & Inclusion Analysis**  
+📍 **3️⃣ Customer Risk Analysis**  
+![Customer Risk Analysis](images/Customer%20Risk%20Analysis.png)  
+
+📍 **4️⃣ Diversity & Inclusion Analysis**  
 ![Diversity & Inclusion](images/Diversity%20%26%20Inclusion.png)  
 
-📍 **4️⃣ Financial Performance Dashboard**  
+📍 **5️⃣ Financial Performance Dashboard**  
 ![Financial Dashboard](images/Financial%20Performance.png)  
 
-📍 **5️⃣ Marketing Performance Dashboard**  
+📍 **6️⃣ Marketing Performance Dashboard**  
 ![Marketing Dashboard](images/Marketing%20Performance.png)  
 
 ## 🛠️ Technologies & Tools
