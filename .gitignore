@@ -1,6 +1,10 @@
-# Ignore datasets
+# Ignore datasets by default
 data/*.csv
 data/*.xlsx
+
+# Allow specific files
+!data/important_dataset.csv
+!data/sample_data.xlsx
 
 # Ignore Power BI temp files
 *.pbix-journal
