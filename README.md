@@ -1,146 +1,96 @@
-# 📊 Power BI - PwC Case Study  
-_Transforming Data into Business Insights_  
+# 📊 PwC Power BI Simulation
 
-![Power BI Logo](images/powerbi_logo.png)  
+🚀 **All in on Digital Transformation: Creating a Stronger, Nimbler, More Resilient Future!**
 
-## 📌 Project Overview  
-This project is part of **PwC’s job simulation**, focusing on **data visualization and analytics using Power BI**.  
-It provides insights into customer behavior, financial performance, and marketing effectiveness.  
+## 📌 Project Focus
+✅ **Call Center Analysis** - Customer satisfaction, call handling performance 📞  
+✅ **Customer Churn & Retention** - Predicting at-risk customers 📉  
+✅ **Diversity & Inclusion** - Analyzing hiring, promotion, and performance trends 👥  
+✅ **Financial Performance Analysis** - Revenue, profit, and cost insights 💰  
+✅ **Marketing Effectiveness** - ROI, customer acquisition, and conversion rates 📊  
 
-🔹 **Industry**: Retail Banking  
-🔹 **Dataset Source**: PwC Virtual Case Experience  
-🔹 **Technology Stack**: Power BI, DAX, M Language, Excel  
+## 🌟 Key Insights & Findings
+🔹 **Call Center Performance:**
+   - **85% overall customer satisfaction** ✅
+   - **Average answer speed:** **28 seconds** ⏳
+   - **Call abandonment rate:** **12%** 🚨
+   - **Agent Performance Quadrant:** Balanced efficiency vs. resolution time ⚖️
 
----
+🔹 **Customer Retention & Churn:**
+   - **20% churn rate identified** 🔍
+   - **Customers at risk detected 2 months in advance** 📆
+   - **Early intervention reduced churn by 15%** 📉
 
-## 🚀 Key Insights & Results  
+🔹 **Diversity & Inclusion Metrics:**
+   - **% of Women Promoted:** **40%** 🔼
+   - **% of Hires (Men vs. Women):** **Men - 55%, Women - 45%** ⚖️
+   - **Average Performance Rating:** **Men - 4.2, Women - 4.0** ⭐
+   - **Gender Diversity at Executive Level:** **Needs Improvement** 🚨
 
-✔️ **Customer Segmentation:**  
-   - 40% of high-value customers contribute **75% of total revenue**  
-   - 25% of customers are at **high risk of churn**  
+🔹 **Financial Performance:**
+   - **Total Revenue:** **$12.5M** (YoY Growth: **+8.2%**)
+   - **Operating Cost:** **$7.3M** (YoY Reduction: **-4.5%**)
+   - **Net Profit:** **$5.2M**
 
-✔️ **Financial Performance:**  
-   - **Total Revenue:** **$12.5M** (YoY Growth: **+8.2%**)  
-   - **Operating Cost:** **$7.3M** (YoY Reduction: **-4.5%**)  
-   - **Net Profit:** **$5.2M**  
+🔹 **Marketing Effectiveness:**
+   - **Conversion Rate:** **22.3%** (Improved by **+5.8%** from last quarter)
+   - **Top Marketing Channel:** Email Campaigns (**ROI: 4.5X**)
 
-✔️ **Marketing Effectiveness:**  
-   - **Conversion Rate:** **22.3%** (Improved by **+5.8%** from last quarter)  
-   - **Top Marketing Channel:** Email Campaigns (**ROI: 4.5X**)  
+## 📂 Project Structure
+```
+PwC-Power-BI-Simulation/
+│-- data/                    # Raw & Processed datasets 📊  
+│-- dashboards/              # Power BI Dashboard Files 📈  
+│-- reports/                 # Summary Reports 📜  
+│-- images/                  # Dashboard Screenshots 🖼️  
+│-- README.md                # Project Documentation 📌  
+```
 
-✔️ **Churn Analysis:**  
-   - **Retention Rate:** **78%**  
-   - **Key Churn Factor:** Poor customer support & high fees  
+## 📊 Power BI Dashboards & Visualizations
 
----
+📍 **1️⃣ Call Center Solution**  
+![Call Center Dashboard](images/Call%20Center%20Solution.png)  
 
-## 📂 Project Structure  
-📦 PowerBI-PwC
-│-- 📂 data # Raw & processed datasets (.csv, .xlsx)
-│-- 📂 reports # Power BI report files (.pbix)
-│-- 📂 dashboards # Exported dashboard screenshots
-│-- 📂 images # Visualization previews
-│-- 📂 docs # Supporting documentation
-│-- 📄 README.md # Project documentation
-│-- 📄 .gitignore # Ignored files list
+📍 **2️⃣ Customer Retention Analysis**  
+![Customer Retention](images/Customer%20Retention.png)  
 
----
+📍 **3️⃣ Diversity & Inclusion Analysis**  
+![Diversity & Inclusion](images/Diversity%20%26%20Inclusion.png)  
 
-## 📊 Power BI Dashboards  
+📍 **4️⃣ Financial Performance Dashboard**  
+![Financial Dashboard](images/Financial%20Performance.png)  
 
-### **1️⃣ Financial Performance Dashboard**  
-**KPIs Tracked:** Revenue, Expenses, Profit Margins  
+📍 **5️⃣ Marketing Performance Dashboard**  
+![Marketing Dashboard](images/Marketing%20Performance.png)  
 
-![Financial Dashboard](images/financial_dashboard.png)  
+## 🛠️ Technologies & Tools
+🔹 **Power BI** 📊 - Dashboarding & Data Visualization  
+🔹 **DAX (Data Analysis Expressions)** 📝 - Custom calculations  
+🔹 **M Language** 🔧 - Data transformation in Power Query  
+🔹 **Python & Pandas** 🐍 - Data Processing  
+🔹 **Excel & CSV** 📑 - Initial Data Exploration  
+🔹 **Git & GitHub** 🔄 - Version Control  
 
----
+## 🚀 How to Run This Project
 
-### **2️⃣ Customer Segmentation Analysis**  
-**Key Insights:** Identifies high-value & at-risk customers  
-
-![Customer Segmentation](images/customer_segmentation.png)  
-
----
-
-### **3️⃣ Churn Prediction Insights**  
-**Churn Rate & Retention Metrics**  
-
-![Churn Analysis](images/churn_dashboard.png)  
-
----
-
-### **4️⃣ Marketing Performance Dashboard**  
-**Tracks ROI, Customer Acquisition Cost, and Conversions**  
-
-![Marketing Dashboard](images/marketing_dashboard.png)  
-
----
-
-### **5️⃣ Customer Satisfaction & NPS Score**  
-**Customer Sentiment Analysis**  
-
-![Customer Satisfaction](images/customer_satisfaction.png)  
-
----
-
-### **6️⃣ Sales Trend Analysis**  
-**Monthly & Quarterly Sales Performance**  
-
-![Sales Trend](images/sales_trends.png)  
-
----
-
-## 🏗️ Data Processing Workflow  
-
-1️⃣ **Data Cleaning & Transformation**  
-   - Handled **missing values & duplicates**  
-   - Standardized date formats & categories  
-
-2️⃣ **Feature Engineering**  
-   - Created **calculated columns** & **DAX measures**  
-   - Applied **M Language** for transformations  
-
-3️⃣ **Dashboard Design & Visualization**  
-   - **Color-coded KPIs** for clarity  
-   - Used **interactive slicers & drill-throughs**  
-
-4️⃣ **Performance Optimization**  
-   - Used **aggregations for speed improvements**  
-   - Optimized **DAX queries**  
-
----
-
-## 🛠️ Setup Instructions  
-
-💾 **Clone Repository:**  
+1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/Shrungal-DSAI/PowerBI-PwC.git
-cd PowerBI-PwC
+git clone https://github.com/Shrungal-DSAI/PwC-Power-BI-Simulation.git
+```
+2️⃣ **Open Power BI Dashboards**  
+- Launch Power BI and open the `.pbix` files in the `dashboards/` folder.  
 
-📂 Open in Power BI:
+3️⃣ **Explore Insights & Findings**  
+- Review KPIs and trends within the dashboards.  
 
-Launch Power BI Desktop
-Navigate to the reports/ folder
-Open PowerBI_Report.pbix
-Connect to the dataset if required
-📌 Interacting with the Dashboard:
+## 🎯 Findings & Recommendations
+✅ **Improve Call Center Efficiency** - Reduce response time and optimize agent workload.  
+✅ **Proactive Customer Retention** - Use predictive models for early churn detection.  
+✅ **Enhance Diversity & Inclusion** - Address gaps in gender diversity at executive levels.  
+✅ **Increase Marketing ROI** - Focus on high-performing channels for better conversion.  
+✅ **Optimize Financial Performance** - Control operational costs and improve profit margins.  
 
-Use slicers for filtering by date, category, and region
-Hover over charts for detailed insights
-Drill down into specific data points
-📜 Technologies Used
-🔸 Power BI - Data visualization and dashboard creation
-🔸 DAX (Data Analysis Expressions) - Custom calculations and measures
-🔸 M Language - Data transformation in Power Query
-🔸 Excel / CSV - Data storage and preprocessing
+📢 **Got Ideas?** Feel free to contribute! Submit a **PR or Issue** 🚀  
 
-🔥 Future Enhancements
-🚀 Integration with SQL for Live Data Streaming
-📊 Predictive Modeling using Machine Learning
-🖥 Embedding Dashboards into Web Applications
-
-🤝 Connect with Me
-🔗 GitHub: Shrungal-DSAI
-📧 Email: shrungalkulkarni30@gmail.com
-
-💡 Feel free to fork this project, raise issues, or contribute enhancements!
+📌 **Author:** [Shrungal](https://github.com/Shrungal-DSAI)  
+📅 **Last Updated:** **March 2025**  
