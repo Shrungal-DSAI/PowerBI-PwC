@@ -1,0 +1,11 @@
+# Ignore datasets
+data/*.csv
+data/*.xlsx
+
+# Ignore Power BI temp files
+*.pbix-journal
+
+# Ignore Python cache (if applicable)
+__pycache__/
+*.pyc
+*.pyo
