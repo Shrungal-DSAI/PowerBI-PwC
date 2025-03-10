@@ -62,11 +62,7 @@ PwC-Power-BI-Simulation/
 📍 **4️⃣ Diversity & Inclusion Analysis**  
 ![Diversity & Inclusion](images/Diversity%20%26%20Inclusion.png)  
 
-📍 **5️⃣ Financial Performance Dashboard**  
-![Financial Dashboard](images/Financial%20Performance.png)  
-
-📍 **6️⃣ Marketing Performance Dashboard**  
-![Marketing Dashboard](images/Marketing%20Performance.png)  
+---
 
 ## 🛠️ Technologies & Tools
 🔹 **Power BI** 📊 - Dashboarding & Data Visualization  
